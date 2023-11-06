@@ -1,0 +1,59 @@
+.block1 {
+    border-color:black;
+    border: 3px solid grey;
+    width: 130px;
+    height: 440px;
+    background-color: rgb(205, 203, 203);
+    margin: 5px;
+}
+h1 {
+    text-align: center;
+    font-family: Calibry;
+    color: rgb(115, 115, 115);
+}
+
+.Image {
+    width: 100%
+}
+h2 {
+    font-family: Calibri;
+    text-align: center;
+    color: rgb(95, 94, 94);
+}
+h5 {
+    font-family: calibri;
+    text-align: center;
+    color: rgb(95, 94, 94);
+    
+}
+body {
+    background-color: rgb(248, 205, 212);
+}
+.Pokedex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+.typeSection {
+    width: 100%;
+    text-align: center;
+}
+a {
+    color: rgb(115, 115, 115);
+}
+ul {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    list-style: none;
+    width: 100%;
+}
+.navbar {
+    width: 100%;
+}
+.navBar ul li {
+    margin: 5px;
+    
+}
+
